@@ -1,7 +1,5 @@
 # Subscriber-prediction
 
-Subscribers prediction-version 3-documentation
-
 Project Name:   Subscribers prediction
 
 Scope: Build a model for predicting subscribers count of a YouTube channel where subscribers are hidden
